@@ -32,8 +32,5 @@ public class LifeDate {
         }else{
             System.out.println("已生存"+time/24/60/60/1000+"天");
         }
-
-        ;
-
     }
 }
